@@ -1,4 +1,5 @@
-<p align="center"><img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif"></p>
+<p align="center"><img src="![Uploading 1.png…]()
+"></p>
 <h1 align="center">Hi 👋, I'm Nikhil Pathak</h1>
 <h3 align="center">I'm Nikhil Pathak, a third-year AI and ML student passionate about programming and problem-solving. My journey in the world of technology has been an exciting one, driven by my love for Java, competitive coding, and exploring the frontiers of AI and data analytics.
 I love developing Android Apps a</h3>
