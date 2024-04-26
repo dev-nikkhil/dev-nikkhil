@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/dev-nikkhil/dev-nikkhil/assets/91674155/4fd696bd-ff2c-4655-8eab-ce0ba9629efb"></p>
 <h1 align="center">Hi 👋, I'm Nikhil Pathak</h1>
 <h3 align="center">I'm Nikhil Pathak, a third-year AI and ML student passionate about programming and problem-solving. My journey in the world of technology has been an exciting one, driven by my love for Java, competitive coding, and exploring the frontiers of AI and data analytics.
-I love developing Android Apps a</h3>
+I love developing Android Apps</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-nikkhil&label=Profile%20views&color=0e75b6&style=flat" alt="dev-nikkhil" /> </p>
