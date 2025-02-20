@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/dev-nikkhil/dev-nikkhil/issues/1#issue-2867256045"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/abec1374-c43f-4153-9309-e2f4efff5aef"></p>
 <h1 align="center">Hey there! 👋 I'm Nikhil Pathak</h1>
 <h3 align="center">A DevOps enthusiast 🚀, Cloud Explorer ☁️, and occasional Android tinkerer 📱</h3>
 
@@ -13,6 +13,7 @@
 
 <h3 align="left">Let's Connect!</h3>
 <p align="left">
+<a href="mailto:mnnikhil03@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
 <a href="https://twitter.com/dev_nikkhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_nikkhil" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nikhilpathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil pathak" height="30" width="40" /></a>
 <a href="https://leetcode.com/nikhil_pathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhil_pathak" height="30" width="40" /></a>
