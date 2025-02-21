@@ -13,9 +13,12 @@
 
 <h3 align="left">Let's Connect!</h3>
 <p align="left">
-<a href="mailto:mnnikhil03@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+<a href="mailto:mnnikhil03@gmail.com">
+  <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
 <a href="https://twitter.com/dev_nikkhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_nikkhil" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nikhilpathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil pathak" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nikhil-pathak18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil pathak" height="30" width="40" /></a>
 <a href="https://leetcode.com/nikhil_pathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhil_pathak" height="30" width="40" /></a>
 </p>
 
