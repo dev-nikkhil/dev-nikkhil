@@ -2,7 +2,7 @@
 <h1 align="center">Hey there! 👋 I'm Nikhil Pathak</h1>
 <h3 align="center">A DevOps enthusiast 🚀, Cloud Explorer ☁️, and occasional Android tinkerer 📱</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/8e04691e-6681-482a-bd59-3b6f50776827">
 
 - ☁️ AWS Certified Solutions Architect
 - 🛠️ DevOps | Kubernetes | Terraform | Jenkins
