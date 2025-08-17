@@ -1,48 +1,80 @@
-<p align="center"><img src="https://github.com/user-attachments/assets/abec1374-c43f-4153-9309-e2f4efff5aef"></p>
-<h1 align="center">Hey there! 👋 I'm Nikhil Pathak</h1>
-<h3 align="center">A DevOps enthusiast 🚀, Cloud Explorer ☁️, and occasional Android tinkerer 📱</h3>
+# <div align="center">🚀 **Nikhil Pathak**</div>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/8e04691e-6681-482a-bd59-3b6f50776827">
+<div align="center">
+  
+[![Jr. DevOps Engineer | AWS | Kubernetes | Terraform | Jenkins | CI/CD](https://img.shields.io/badge/Jr.DevOps_Engineer_%7C_AWS_%7C_Kubernetes_%7C_Terraform_%7C_Jenkins_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://github.com/dev-nikkhil)
 
-- ☁️ AWS Certified Solutions Architect
-- 🛠️ DevOps | Kubernetes | Terraform | Jenkins
-- 📱 Dabbled in Android development
-- 🎨 Product Management | Jira | Figma
+<img src="https://github.com/dev-nikkhil/Banner-Linkedin/blob/main/WhatsApp%20Image%202025-08-17%20at%2017.15.49.jpeg" alt="aboutme" width="800px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-nikkhil&label=Profile%20views&color=0e75b6&style=flat" alt="dev-nikkhil" /> </p>
+</div>
 
-<h3 align="left">Let's Connect!</h3>
-<p align="left">
-<a href="mailto:mnnikhil03@gmail.com">
-  <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<div align="center">
+  <p><strong>Hey there!</strong> 
+    👋 I'm a Jr. DevOps Engineer passionate about automating workflows, deploying cloud-native applications, and building scalable CI/CD pipelines.</p>
+</div>
 
-<a href="https://twitter.com/dev_nikkhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_nikkhil" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nikhil-pathak18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil pathak" height="30" width="40" /></a>
-<a href="https://leetcode.com/nikhil_pathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhil_pathak" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Tech Stack</h3>
-<p align="left"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a> 
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-</a>
-  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/> 
-</a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> 
-</a>
-  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/> 
-</a>
-  <a href="https://grafana.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/> 
-</a>
-</p>
+## 💫 About Me  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-nikkhil&show_icons=true&locale=en&layout=compact" alt="dev-nikkhil" /></p>
+- 🌩️ **Cloud & DevOps Engineer** – Skilled in AWS, Kubernetes, Docker, and Terraform  
+- 🤖 **Automation Enthusiast** – CI/CD, Infrastructure as Code (IaC), GitOps (Argo CD)  
+- 🛠️ **Hands-On Experience** – Real-time projects with AWS, Kubernetes, Jenkins, Terraform, Ansible  
+- 🎓 **Education** – B.Tech CSE (81%), Lovely Professional University  
+
+---
+
+## 🛠️ Skills  
+
+### ☁️ Cloud Platforms  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+
+### ⚡ DevOps & CI/CD  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
+
+### 🐳 Containers & Orchestration  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FE6A16?style=for-the-badge&logo=argo&logoColor=white)  
+
+### 🏗️ Infrastructure & Monitoring  
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
+![CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)  
+
+### 💻 Languages & Tools  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+---
+
+## 📜 Certifications  
+
+- ✅ **AWS Academy Cloud Foundations** – Amazon Web Services Training & Certification  
+- ✅ **Linux for Developers** – LinkedIn Learning  
+- ✅ **DevOps with AWS** – Intellipaat  
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-nikkhil&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nikkhil&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px"/>
+</div>
+
+---
+
+## 🤝 Connect With Me  
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhil_Pathak-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilpathak)  
+[![GitHub](https://img.shields.io/badge/GitHub-dev--nikkhil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-nikkhil)  
+[![Email](https://img.shields.io/badge/Email-mnnikhil03%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mnnikhil03@gmail.com)  
+
+</div>
