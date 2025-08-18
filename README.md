@@ -26,6 +26,10 @@
 
 ## 🛠️ Skills  
 
+<table>
+  <tr>
+    <td>
+
 ### ☁️ Cloud Platforms  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 
@@ -39,6 +43,9 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-FE6A16?style=for-the-badge&logo=argo&logoColor=white)  
 
+   </td>
+   <td>
+
 ### 🏗️ Infrastructure & Monitoring  
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  
@@ -50,7 +57,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
 
----
+   </td>
+  </tr>
+</table>
 
 ## 📜 Certifications  
 
